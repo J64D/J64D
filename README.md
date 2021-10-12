@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J64D
 - 👀 I’m interested in  systems analyst
-- 🌱 I’m currently learning python,java,machine larning,c,
+- 🌱 I’m currently learning python,java,machine learning,c,
 - 💞️ I’m looking to collaborate on ... corporations,games,applications,
 - 📫 How to reach me ... invite me in linkedn and whatsapp 21999478840
 
