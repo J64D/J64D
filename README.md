@@ -37,7 +37,7 @@
 
 #### Studying in this moment:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![ORACLE CLOUD](https://img.shields.io/badge/OracleCloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
+![ORACLE CLOUD](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=OracleCloud&logoColor=white)&nbsp;
 
 #### Databases:
 
