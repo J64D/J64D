@@ -1,9 +1,8 @@
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=J64D&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-J64D.vercel.app/api/top-langs/?username=J64D&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> With a strong background in Python programming and proficiency in React Native for frontend development, my passion for continuously exploring emerging technologies drives me to craft high-quality solutions. I am currently embarking on a journey as a dedicated developer, committed to expanding my expertise across both backend and frontend realms. 🖥️ I am enthusiastic about actively contributing my energy and efforts to innovate and create cutting-edge solutions for your technology company.</p>&nbsp;
+
+<p align="center">
+ <h2>Hello, I'm Jarod</h2>
+ <br>
+ I ❤️ solve great challenges using tech. <br><br> With a strong background in Python programming and proficiency in React Native for frontend development, my passion for continuously exploring emerging technologies drives me to craft high-quality solutions. I am currently embarking on a journey as a dedicated developer, committed to expanding my expertise across both backend and frontend realms. 🖥️ I am enthusiastic about actively contributing my energy and efforts to innovate and create cutting-edge solutions for your technology company.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=J64D&theme=radical&mode=weekly" />
@@ -34,6 +33,9 @@
 
 #### Secondary Stack:
 
+![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;  
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![React-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
