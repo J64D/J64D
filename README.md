@@ -8,6 +8,7 @@
  <br>
  
  Eu ❤️ enfrentar grandes desafios usando tecnologia. 
+ 
  Com uma sólida base em programação Python e proficiência em React Native para desenvolvimento frontend, minha paixão por explorar continuamente tecnologias emergentes me impulsiona a criar soluções de alta qualidade. Atualmente, estou embarcando em uma jornada como desenvolvedor dedicado, comprometido em expandir minha expertise tanto no backend quanto no frontend. 🖥️ Estou entusiasmado em contribuir ativamente com minha energia e esforços para inovar e criar soluções de ponta para a sua empresa de tecnologia.  
   <br>
 <div  align="center" style="margin-bottom:100px">
