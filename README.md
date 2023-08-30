@@ -1,6 +1,8 @@
 
 <p align="center">
  <h2>Hello, I'm Jarod</h2>
+ <p align="center">
+   <h2>Olá,Eu sou Jarod</h2>
  <br>
  
  Eu ❤️ enfrentar grandes desafios usando tecnologia. 
