@@ -1,15 +1,15 @@
 
 <p align="center">
  <h2>Hello, I'm Jarod</h2>
+ <br>
+ I ❤️ solve great challenges using tech. <br><br> With a strong background in Python programming and proficiency in React Native for frontend development, my passion for continuously exploring emerging technologies drives me to craft high-quality solutions. I am currently embarking on a journey as a dedicated developer, committed to expanding my expertise across both backend and frontend realms. 🖥️ I am enthusiastic about actively contributing my energy and efforts to innovate and create cutting-edge solutions for your technology company.</p>&nbsp;
  <p align="center">
-   <h2>Olá,Eu sou Jarod</h2>
+   <h2> Olá,Eu sou Jarod</h2>
  <br>
  
  Eu ❤️ enfrentar grandes desafios usando tecnologia. 
  Com uma sólida base em programação Python e proficiência em React Native para desenvolvimento frontend, minha paixão por explorar continuamente tecnologias emergentes me impulsiona a criar soluções de alta qualidade. Atualmente, estou embarcando em uma jornada como desenvolvedor dedicado, comprometido em expandir minha expertise tanto no backend quanto no frontend. 🖥️ Estou entusiasmado em contribuir ativamente com minha energia e esforços para inovar e criar soluções de ponta para a sua empresa de tecnologia.  
   <br>
- I ❤️ solve great challenges using tech. <br><br> With a strong background in Python programming and proficiency in React Native for frontend development, my passion for continuously exploring emerging technologies drives me to craft high-quality solutions. I am currently embarking on a journey as a dedicated developer, committed to expanding my expertise across both backend and frontend realms. 🖥️ I am enthusiastic about actively contributing my energy and efforts to innovate and create cutting-edge solutions for your technology company.</p>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=J64D&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-J64D.vercel.app/api/top-langs/?username=J64D&show_icons=true&theme=radical&layout=compact" />
