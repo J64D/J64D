@@ -12,7 +12,7 @@
 
 I love tackling complex challenges using technology ❤️  
 
-I am a **Front-Fullstack Developer and Technical Leader** focused on building scalable, high-performance applications, including **ERP, CRM, and SaaS platforms**.
+I am a **Fullstack Developer and Technical Leader** focused on building scalable, high-performance applications, including **ERP, CRM, and SaaS platforms**.
 
 My main expertise is in the **JavaScript/TypeScript ecosystem**, mobile development with **React Native**, and robust backend services using **Node.js, PHP (Laravel), and .NET**.
 
@@ -29,7 +29,7 @@ Alongside my professional journey, I lead **Scarlet Studio**, where we develop g
 
 Eu ❤️ resolver desafios complexos usando tecnologia.
 
-Sou **Desenvolvedor Front-Fullstack e Líder Técnico**, com foco na construção de aplicações escaláveis e de alta performance, incluindo plataformas **ERP, CRM e SaaS**.
+Sou **Desenvolvedor Fullstack e Líder Técnico**, com foco na construção de aplicações escaláveis e de alta performance, incluindo plataformas **ERP, CRM e SaaS**.
 
 Minha principal atuação está no ecossistema **JavaScript/TypeScript**, desenvolvimento mobile com **React Native** e serviços backend usando **Node.js, PHP (Laravel) e .NET**.
 
