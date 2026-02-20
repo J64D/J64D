@@ -102,7 +102,7 @@ Paralelamente, lidero a **Scarlet Studio**, criando jogos e soluções com forte
 - ☁️ **Descubra a Nuvem AWS – LocalizaLabs** — Digital Innovation One (DIO) — Oct 2023  
 - ☕ **Code Update TQI – Backend com Kotlin e Java** — Digital Innovation One (DIO) — Sep 2023  
 
-📌 *DIO = Digital Innovation One*
+
 
 ---
 
