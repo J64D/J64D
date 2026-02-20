@@ -10,17 +10,19 @@
 
 ## 🇺🇸 About Me
 
-I love tackling complex challenges using technology ❤️  
+I love solving complex challenges using technology ❤️  
 
-I am a **Fullstack Developer and Technical Leader** focused on building scalable, high-performance applications, including **ERP, CRM, and SaaS platforms**.
+I am a **Fullstack Developer and Technical Leader** with 5+ years of experience building web, mobile, and software solutions.
 
-My main expertise is in the **JavaScript/TypeScript ecosystem**, mobile development with **React Native**, and robust backend services using **Node.js, PHP (Laravel), and .NET**.
+I started my career focused on **backend development**, and over the years expanded into frontend and mobile, evolving into a well-rounded fullstack engineer capable of delivering complete products end-to-end.
+
+My experience includes the development of **web platforms, mobile applications, APIs, ERP/CRM systems, and SaaS products**, always focusing on scalability, performance, and clean architecture.
 
 Currently, I have **intermediate knowledge in Kotlin** and continue studying consistently — because great developers never stop learning.
 
 Alongside my professional journey, I lead **Scarlet Studio**, where we develop games and software solutions with a strong Brazilian identity.
 
-🖥️ Open to innovative projects and collaborations.  
+🖥️ Open to innovative projects and collaborations  
 🌐 Website: https://scarletstudio.com.br
 
 ---
@@ -29,15 +31,17 @@ Alongside my professional journey, I lead **Scarlet Studio**, where we develop g
 
 Eu ❤️ resolver desafios complexos usando tecnologia.
 
-Sou **Desenvolvedor Fullstack e Líder Técnico**, com foco na construção de aplicações escaláveis e de alta performance, incluindo plataformas **ERP, CRM e SaaS**.
+Sou **Desenvolvedor Fullstack e Líder Técnico** com mais de 5 anos de experiência construindo soluções web, mobile e softwares completos.
 
-Minha principal atuação está no ecossistema **JavaScript/TypeScript**, desenvolvimento mobile com **React Native** e serviços backend usando **Node.js, PHP (Laravel) e .NET**.
+Iniciei minha carreira com foco em **backend**, e ao longo do tempo expandi para frontend e mobile, evoluindo para um engenheiro fullstack capaz de entregar produtos ponta a ponta.
+
+Tenho experiência no desenvolvimento de **plataformas web, aplicativos mobile, APIs, sistemas ERP/CRM e produtos SaaS**, sempre com foco em escalabilidade, performance e arquitetura limpa.
 
 Atualmente possuo **conhecimento intermediário em Kotlin** e sigo estudando constantemente — porque desenvolvedor de verdade nunca para.
 
 Paralelamente, lidero a **Scarlet Studio**, criando jogos e soluções com forte identidade brasileira.
 
-🖥️ Aberto a projetos inovadores e parcerias.  
+🖥️ Aberto a projetos inovadores e parcerias  
 🌐 Site: https://scarletstudio.com.br
 
 ---
@@ -55,13 +59,13 @@ Paralelamente, lidero a **Scarlet Studio**, criando jogos e soluções com forte
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## ⚙️ Backend & Platforms
+## ⚙️ Backend & Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -92,24 +96,13 @@ Paralelamente, lidero a **Scarlet Studio**, criando jogos e soluções com forte
 
 ---
 
-# 🧩 Systems Experience
-
-- 🏢 ERP Development  
-- 👥 CRM Platforms  
-- ☁️ SaaS Architecture  
-- 🔄 REST APIs  
-- 📦 Dockerized Applications  
-- 📊 Agile Project Management
-
----
-
 # 🎓 Certifications
 
 - 🛡️ **Cybersecurity Specialist** — Santander Open Academy  
 - ☁️ **Descubra a Nuvem AWS – LocalizaLabs** — Digital Innovation One (DIO) — Oct 2023  
 - ☕ **Code Update TQI – Backend com Kotlin e Java** — Digital Innovation One (DIO) — Sep 2023  
 
-
+📌 *DIO = Digital Innovation One*
 
 ---
 
