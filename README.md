@@ -1,12 +1,10 @@
 <div align="center">
 
-# Olá, eu sou Jarod da Silva 👋
+# Jarod da Silva 👋
 
 **Engenheiro de Software · Líder Técnico · Fundador da Scarlet Studio**
 
-Crio aplicações, APIs e produtos digitais — do desenho da solução à entrega.
-
-[Portfólio](https://scarletstudio.com.br) · [LinkedIn](https://www.linkedin.com/in/jarod-da-silva-pereira-633183209/) · [E-mail](mailto:jarodsystem64@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jarod-da-silva-pereira-633183209/) · [Portfólio](https://scarletstudio.com.br) · [E-mail](mailto:jarodsystem64@gmail.com)
 
 </div>
 
@@ -14,48 +12,31 @@ Crio aplicações, APIs e produtos digitais — do desenho da solução à entre
 
 ## Sobre mim
 
-Atuo no desenvolvimento de software e na liderança técnica de produtos digitais. Tenho experiência com aplicações web, APIs, bancos de dados, automações e desenvolvimento de jogos. Também sou fundador da **Scarlet Studio**.
+Sou engenheiro de software com foco em desenvolvimento de produtos digitais, APIs, sistemas web e soluções tecnológicas para negócios. Também atuo como líder técnico e empreendedor, com experiência em arquitetura, entrega e criação de soluções práticas.
 
-Gosto de transformar problemas em soluções claras, com atenção à arquitetura, à experiência de quem usa o produto e à qualidade da implementação.
+## Stack principal
 
-## Tecnologias
-
-**Linguagens:** JavaScript, TypeScript, C#, Python, Java, Kotlin, C++, PHP, HTML e CSS  
-**Frameworks e plataformas:** Node.js, .NET, Spring Boot, React, React Native, Angular, Vue.js, Laravel, Django e Unity  
-**Dados e ferramentas:** SQL Server, MySQL, MongoDB, AWS, Azure, Docker e Git
+- Backend: Node.js, TypeScript, C#, Python, Java, Kotlin, PHP
+- Frontend: React, Angular, Vue, HTML, CSS
+- Dados: SQL Server, MySQL, PostgreSQL, MongoDB
+- Cloud e infra: AWS, Azure, Docker, Git
+- Game dev: Unity, C#
 
 ## Projetos em destaque
 
-| Projeto | Tecnologias | Sobre |
+| Projeto | Stack | Tipo |
 | --- | --- | --- |
-| [API de análise preditiva e auditoria com IA](https://github.com/J64D/-API-DeAnalise-Preditiva-e-Auditoria-de-Checklists-com-IA) | TypeScript · Node.js · IA | API voltada à análise de riscos e auditoria de checklists. |
-| [Tori Studio](https://github.com/J64D/Tori-studio-Editora-website) | TypeScript · React · Vite | Plataforma de leitura de quadrinhos digitais e narrativas imersivas. |
-| [Chatbot profissional para WhatsApp](https://github.com/J64D/Chatbot-Whatsapp-Profissional) | Python | Automação de vendas com catálogo, consulta de preços e respostas rápidas. |
-| [API REST com Kotlin](https://github.com/J64D/Documentando-e-Testando-sua-API-Rest-com-Kotlin) | Kotlin · Spring Boot | Projeto de estudo de API REST, documentação e testes. |
+| [WorkerIN](https://github.com/J64D/WorkerIn) | JavaScript, Node.js, Supabase | Portfólio |
+| [Chatbot WhatsApp](https://github.com/J64D/Chatbot-Whatsapp-Profissional) | Python | Portfólio |
+| [API de auditoria](https://github.com/J64D/-API-DeAnalise-Preditiva-e-Auditoria-de-Checklists-com-IA) | TypeScript, Node.js | Portfólio |
+| [Tori Studio](https://github.com/J64D/Tori-studio-Editora-website) | React, Vite, TypeScript | Portfólio |
 
 ## Contato
 
-- **Portfólio:** [scarletstudio.com.br](https://scarletstudio.com.br)
-- **LinkedIn:** [Jarod da Silva Pereira](https://www.linkedin.com/in/jarod-da-silva-pereira-633183209/)
-- **E-mail:** [jarodsystem64@gmail.com](mailto:jarodsystem64@gmail.com)
+- LinkedIn: [Jarod da Silva Pereira](https://www.linkedin.com/in/jarod-da-silva-pereira-633183209/)
+- Portfólio: [scarletstudio.com.br](https://scarletstudio.com.br)
+- E-mail: [jarodsystem64@gmail.com](mailto:jarodsystem64@gmail.com)
 
 ---
 
-<details>
-<summary>English</summary>
-
-### About me
-
-I’m a software engineer, technical lead, and founder of **Scarlet Studio**. I build applications, APIs, automations, and digital products, with a focus on clear architecture and practical solutions.
-
-### Technologies
-
-**Languages:** JavaScript, TypeScript, C#, Python, Java, Kotlin, C++, PHP, HTML, and CSS  
-**Frameworks and platforms:** Node.js, .NET, Spring Boot, React, React Native, Angular, Vue.js, Laravel, Django, and Unity  
-**Data and tools:** SQL Server, MySQL, MongoDB, AWS, Azure, Docker, and Git
-
-### Contact
-
-[Portfolio](https://scarletstudio.com.br) · [LinkedIn](https://www.linkedin.com/in/jarod-da-silva-pereira-633183209/) · [Email](mailto:jarodsystem64@gmail.com)
-
-</details>
+<sub>Desenvolvido por Jarod da Silva Pereira</sub>
